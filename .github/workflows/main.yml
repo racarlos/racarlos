@@ -9,8 +9,22 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+    
+      # ======================================================================================
       # See action.yml for all options
+      # ======================================================================================
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
+          
+          template: repository
+          filename: metrics.repository.svg
+          user: lowlighter
+          repo: metrics
+          plugin_lines: yes
+          plugin_followup: yes
+          plugin_projects: yes
+          plugin_projects_repositories: lowlighter/metrics/projects/1
+          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          output_action: pull-request
