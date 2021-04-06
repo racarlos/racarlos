@@ -17,7 +17,7 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          template: repository
+          template: github
           
           # Languages_Used Plugin
           plugin_languages: yes
