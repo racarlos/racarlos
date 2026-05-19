@@ -1,6 +1,8 @@
 # Hi, I'm Robie 👋
 
-Full-stack engineer with 4+ years of experience based in Metro Manila. I'm passionate about building resilient and maintainable systems so I don't have to fix code on a weekend.
+> I make software that makes people's lives easier — especially my own.
+
+Full-stack engineer with 4+ years of experience based in Metro Manila. I like building resilient and maintainable systems so I don't have to fix code on a weekend.
 
 🔍 Interested in **backend roles**, **full-stack engineering**, and **scalable system design**
 
