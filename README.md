@@ -1,7 +1,5 @@
 # Hi, I'm Robie 👋
 
-Claude responded: The summary line is solid as-is — kept it verbatim, the dry humor lands well.md# Hi, I'm Robie 👋
-
 Full-stack engineer with 4+ years of experience based in Metro Manila. I'm passionate about building resilient and maintainable systems so I don't have to fix code on a weekend.
 
 🔍 Interested in **backend roles**, **full-stack engineering**, and **scalable system design**
@@ -43,6 +41,8 @@ Full-stack engineer with 4+ years of experience based in Metro Manila. I'm passi
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+---
 
 ### 📫 Get In Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/racarlos1/) [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rarcarlos09@gmail.com)
